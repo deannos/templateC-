@@ -1,3 +1,7 @@
+/* Programmed by Deannosmortal
+   C++ Template for Competitive Coding
+*/   
+
 //#include<bits/stdc++.h>
 //using namespace std;
 //#define ll long long
